@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 - 🎓 BCA student passionate about building real-world apps
-- 👨‍💻 Languages I know: `C`, `Java`, `Python`, `SQL`, `DSA`, `Power BI`
+- 👨‍💻 Basic Languages I know: `C`, `Java`, `Python`, `SQL`, `DSA`, `Power BI`,FastAPI
 - 🔧 Currently learning: **FastAPI** for modern backend development
 - 🧠 Building a **JarvisAI personal assistant** project
 - 🎮 Created: `Tic Tac Toe`, `BlackJack Game (2-Player)`
