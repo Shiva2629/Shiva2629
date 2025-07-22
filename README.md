@@ -12,7 +12,7 @@
 - 👨‍💻 Basic Languages I know: `C`, `Java(basics)`, `Python(basics)`, `SQL`, `DSA(basics)`, `Power BI`,FastAPI
 - 🔧 Currently learning: **FastAPI** for modern backend development
 - 🧠 Building a **JarvisAI personal assistant** project
-- 🎮 Created: `Tic Tac Toe`, `BlackJack Game (2-Player)`
+- 🎮 Created: `Tic Tac Toe`, `BlackJack Game (2-Player)`,'Student Management System','SecureBlog API'
 
 ---
 
